@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/iNotebook/static/css/main.87ab02da.css",
+    "main.js": "/iNotebook/static/js/main.74419a08.js",
+    "index.html": "/iNotebook/index.html",
+    "main.87ab02da.css.map": "/iNotebook/static/css/main.87ab02da.css.map",
+    "main.74419a08.js.map": "/iNotebook/static/js/main.74419a08.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.87ab02da.css",
+    "static/js/main.74419a08.js"
+  ]
+}
